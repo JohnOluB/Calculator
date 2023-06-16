@@ -31,3 +31,8 @@ html {
   font-size: 30px;
   padding: 10px;
 }
+.display-1 {
+  font-size: 20px;
+  height: 20px;
+  opacity: 0.3;
+}
