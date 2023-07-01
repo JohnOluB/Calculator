@@ -43,3 +43,8 @@ html {
   opacity: 0.4;
   left: 10;
 }
+.all-buttons {
+  display: grid;
+  color: whitesmoke;
+  grid-template: repeat(4, 1fr) / repeat(4, 1fr);
+}
