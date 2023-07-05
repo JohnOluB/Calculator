@@ -70,3 +70,6 @@ html {
 .buttonEqual:hover {
   background: rgba(0, 0, 0, 0.432);
 }
+#btnZero {
+  grid-column: 1/3;
+}
