@@ -48,3 +48,18 @@ html {
   color: whitesmoke;
   grid-template: repeat(4, 1fr) / repeat(4, 1fr);
 }
+.container .all-buttons .buttons,
+.container .all-buttons .last-entity-clear,
+.container .all-buttons .buttonEqual,
+.container .all-buttons .buttonOperation,
+.container .all-buttons .number,
+.container .all-buttons .allClear {
+  border: 0.5px solid rgba(70, 86, 102, 0.068);
+  height: 95px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  cursor: pointer;
+}
